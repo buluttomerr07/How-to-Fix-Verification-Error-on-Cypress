@@ -1,6 +1,6 @@
 # How-to-Fix-Verification-Error-on-Cypress
 
-How to Fix  "Cypress verification timed out " or " Command timed out after 30000 milliseconds" on Cypress
+How to Fix  " Cypress verification timed out " or " Command timed out after 30000 milliseconds " on Cypress
 
 ![image](https://user-images.githubusercontent.com/89155137/142765200-5f26848d-ae51-4052-a13e-ca1b12f12b65.png)
 
