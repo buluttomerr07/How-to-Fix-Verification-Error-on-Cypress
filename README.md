@@ -8,7 +8,7 @@ How to Fix  "Cypress verification timed out " or " Command timed out after 30000
 
 2 solutions is here. You can try both of them
 
-First solution ===> ![image](https://user-images.githubusercontent.com/89155137/142765370-84ad7aff-f4d3-4fe0-bdc9-2c8e4353958b.png)
+First solution ![image](https://user-images.githubusercontent.com/89155137/142765370-84ad7aff-f4d3-4fe0-bdc9-2c8e4353958b.png)
 
 ![image](https://user-images.githubusercontent.com/89155137/142766021-c60e0bad-ecd1-4a79-8d5e-7a493d950459.png)
 
