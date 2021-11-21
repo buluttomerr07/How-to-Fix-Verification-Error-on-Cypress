@@ -30,14 +30,28 @@ Then, you will click "cypess" folder
 
 ![image](https://user-images.githubusercontent.com/89155137/142765604-bcc790ac-a859-4828-a505-342ad1ba5122.png)
 
-Then, you will click "lib" folder ===> ![image](https://user-images.githubusercontent.com/89155137/142765627-883b2937-1829-43e6-b9d0-5d842e4e7224.png)
+Then, you will click "lib" folder
 
-Then, you will click "task" folder ===> ![image](https://user-images.githubusercontent.com/89155137/142765659-61ea5fe6-21c9-42e4-a80c-a520d2c04bbe.png)
+![image](https://user-images.githubusercontent.com/89155137/142765627-883b2937-1829-43e6-b9d0-5d842e4e7224.png)
 
-Then, you will click "verify.js" file ===> ![image](https://user-images.githubusercontent.com/89155137/142765679-885eb756-9019-42f1-805d-f2bf21816a30.png)
+Then, you will click "task" folder
 
-Then, you will find "VERIFY_TEST_RUNNER_TIMEOUT_MS" line ===> ![image](https://user-images.githubusercontent.com/89155137/142765782-690821a5-0ce0-424c-ba76-80854875a76b.png)
+![image](https://user-images.githubusercontent.com/89155137/142765659-61ea5fe6-21c9-42e4-a80c-a520d2c04bbe.png)
 
-Default value should be 30000 ===> ![image](https://user-images.githubusercontent.com/89155137/142765941-4ebe8d57-3ad0-46f8-8539-ad81f7e772b9.png)
+Then, you will click "verify.js" file
 
-Change it to 100000 ===> ![image](https://user-images.githubusercontent.com/89155137/142765827-c87a0345-6f82-42e2-85be-3405ab5add08.png)
+![image](https://user-images.githubusercontent.com/89155137/142765679-885eb756-9019-42f1-805d-f2bf21816a30.png)
+
+Then, you will find "VERIFY_TEST_RUNNER_TIMEOUT_MS" line
+
+![image](https://user-images.githubusercontent.com/89155137/142765782-690821a5-0ce0-424c-ba76-80854875a76b.png)
+
+Default value should be 30000
+
+![image](https://user-images.githubusercontent.com/89155137/142765941-4ebe8d57-3ad0-46f8-8539-ad81f7e772b9.png)
+
+Change it to 100000
+
+![image](https://user-images.githubusercontent.com/89155137/142765827-c87a0345-6f82-42e2-85be-3405ab5add08.png)
+
+Finished :)
